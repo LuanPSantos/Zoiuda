@@ -1,0 +1,23 @@
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2008
+
+Project("{75ABF3B0-567F-2A8B-5766-80D84859C889}") = "Zoiuda", "Assembly-CSharp.csproj", "{430D9D89-F3BC-1169-B0F4-2929B719B056}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{430D9D89-F3BC-1169-B0F4-2929B719B056}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{430D9D89-F3BC-1169-B0F4-2929B719B056}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{430D9D89-F3BC-1169-B0F4-2929B719B056}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{430D9D89-F3BC-1169-B0F4-2929B719B056}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal
